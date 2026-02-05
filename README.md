@@ -1,6 +1,7 @@
 # COPY SHOP SALES DASHBOARD
 
-<img width="1809" height="747" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/50426a80-9e00-446e-b60f-05e18a296c84" />
+<img width="1816" height="746" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/7e5cb362-af5b-4ab5-bc6f-24264f3fb8ab" />
+
 
 # 1.Data Collection & Understanding
 •	Imported raw coffee shop sales data into Excel
