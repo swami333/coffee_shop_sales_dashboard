@@ -1,4 +1,4 @@
-# COffee SHOP SALES DASHBOARD
+# COFFEE SHOP SALES DASHBOARD
 
 <img width="1816" height="746" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/7e5cb362-af5b-4ab5-bc6f-24264f3fb8ab" />
 
